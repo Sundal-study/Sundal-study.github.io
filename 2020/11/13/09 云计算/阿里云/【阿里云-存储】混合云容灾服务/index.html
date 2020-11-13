@@ -98,16 +98,36 @@
 								<li class="directory">
 									<a href="#" class="directory">
 										<i class="fa fa-plus-square-o"></i>
-										Linux
+										09 云计算
 									</a>
 									
 							<ul>
-								<li class="file">
-									<a href="/sundal.gitee.io/2020/11/13/Linux/hello-world/">
-										hello-world
+								<li class="directory">
+									<a href="#" class="directory">
+										<i class="fa fa-plus-square-o"></i>
+										阿里云
+									</a>
+									
+							<ul>
+								<li class="file active">
+									<a href="/sundal.gitee.io/2020/11/13/09%20%E4%BA%91%E8%AE%A1%E7%AE%97/%E9%98%BF%E9%87%8C%E4%BA%91/%E3%80%90%E9%98%BF%E9%87%8C%E4%BA%91-%E5%AD%98%E5%82%A8%E3%80%91%E6%B7%B7%E5%90%88%E4%BA%91%E5%AE%B9%E7%81%BE%E6%9C%8D%E5%8A%A1/">
+										【阿里云-存储】混合云容灾服务
 									</a>
 								</li>
 								<div class="article-toc" style="display: none;"></div>
+							</ul>
+			
+							<ul>
+								<li class="file">
+									<a href="/sundal.gitee.io/2020/11/13/09%20%E4%BA%91%E8%AE%A1%E7%AE%97/%E9%98%BF%E9%87%8C%E4%BA%91/%E9%98%BF%E9%87%8C%E4%BA%91DataWorks%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB/">
+										阿里云DataWorks学习视频汇总
+									</a>
+								</li>
+								<div class="article-toc" style="display: none;"></div>
+							</ul>
+			
+								</li>
+								
 							</ul>
 			
 								</li>
@@ -118,22 +138,13 @@
 								<li class="directory">
 									<a href="#" class="directory">
 										<i class="fa fa-plus-square-o"></i>
-										阿里云
+										12 服务器
 									</a>
 									
 							<ul>
-								<li class="file active">
-									<a href="/sundal.gitee.io/2020/11/13/%E9%98%BF%E9%87%8C%E4%BA%91/%E3%80%90%E9%98%BF%E9%87%8C%E4%BA%91-%E5%AD%98%E5%82%A8%E3%80%91%E6%B7%B7%E5%90%88%E4%BA%91%E5%AE%B9%E7%81%BE%E6%9C%8D%E5%8A%A1/">
-										【阿里云-存储】混合云容灾服务
-									</a>
-								</li>
-								<div class="article-toc" style="display: none;"></div>
-							</ul>
-			
-							<ul>
 								<li class="file">
-									<a href="/sundal.gitee.io/2020/11/13/%E9%98%BF%E9%87%8C%E4%BA%91/%E9%98%BF%E9%87%8C%E4%BA%91DataWorks%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB/">
-										阿里云DataWorks学习视频汇总
+									<a href="/sundal.gitee.io/2020/11/13/12%20%E6%9C%8D%E5%8A%A1%E5%99%A8/hello-world/">
+										hello-world
 									</a>
 								</li>
 								<div class="article-toc" style="display: none;"></div>
@@ -342,20 +353,8 @@
 </ul>
 <p>当其他账号通过HDR访问主账号资源时，阿里云HDR首先向RAM发起权限检查，以确保资源拥有者已经将相关权限授予调用者。您可以阅读<a target="_blank" rel="noopener" href="https://help.aliyun.com/document_detail/28627.html#concept-oyr-zzv-tdb">访问控制产品文档</a>更多详情，实现精细化授权策略和权限控制。</p>
 <h5 id="自定义策略"><a href="#自定义策略" class="headerlink" title="自定义策略"></a>自定义策略</h5><p>您可以通过RAM控制台或者调用RAM <a target="_blank" rel="noopener" href="https://help.aliyun.com/document_detail/28716.html#doc-api-Ram-CreatePolicy">CreatePolicy</a> API创建一个自定义策略，在<strong>脚本配置</strong>方式的自定义策略中，您需要根据JSON模板文件填写<strong>策略内容</strong>。更多详情请参见<a target="_blank" rel="noopener" href="https://help.aliyun.com/document_detail/93738.html#concept-xg5-51g-xdb">权限策略基本元素</a>。</p>
-<pre><code>&#123;
-    &quot;Version&quot;: &quot;1&quot;,
-    &quot;Statement&quot;: [
-        &#123;
-            &quot;Action&quot;: [
-                &quot;hdr:*&quot;
-            ],
-            &quot;Resource&quot;: [
-                &quot;acs:hdr:*:15619224785*****:*&quot;
-            ],
-            &quot;Effect&quot;: &quot;Allow&quot;
-        &#125;
-    ]
-&#125;</code></pre>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;Version&quot;: &quot;1&quot;,</span><br><span class="line">    &quot;Statement&quot;: [</span><br><span class="line">        &#123;</span><br><span class="line">            &quot;Action&quot;: [</span><br><span class="line">                &quot;hdr:*&quot;</span><br><span class="line">            ],</span><br><span class="line">            &quot;Resource&quot;: [</span><br><span class="line">                &quot;acs:hdr:*:15619224785*****:*&quot;</span><br><span class="line">            ],</span><br><span class="line">            &quot;Effect&quot;: &quot;Allow&quot;</span><br><span class="line">        &#125;</span><br><span class="line">    ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
 <h5 id="鉴权列表"><a href="#鉴权列表" class="headerlink" title="鉴权列表"></a>鉴权列表</h5><p><strong>Action</strong>及<strong>Resource</strong>说明请参见<a target="_blank" rel="noopener" href="https://help.aliyun.com/document_detail/93738.html#concept-xg5-51g-xdb">权限策略基本元素</a>。</p>
 <table>
 <thead>
@@ -1404,7 +1403,7 @@
         </div>
         <div class="item right">
             
-              <a href="/sundal.gitee.io/2020/11/13/%E9%98%BF%E9%87%8C%E4%BA%91/%E9%98%BF%E9%87%8C%E4%BA%91DataWorks%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB/">
+              <a href="/sundal.gitee.io/2020/11/13/09%20%E4%BA%91%E8%AE%A1%E7%AE%97/%E9%98%BF%E9%87%8C%E4%BA%91/%E9%98%BF%E9%87%8C%E4%BA%91DataWorks%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E6%B1%87%E6%80%BB/">
                 阿里云DataWorks学习视频汇总
                 <i class="fa fa-angle-right" aria-hidden="true"></i>
               </a>
