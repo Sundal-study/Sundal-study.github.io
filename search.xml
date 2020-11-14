@@ -6,20 +6,15 @@
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <a id="more"></a>
 
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre>
 <p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre>
 <p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre>
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;% pdf &#x2F;source&#x2F;pdf&#x2F;page.title.pdf %&#125;</span><br></pre></td></tr></table></figure>
-
+<pre><code>&#123;% pdf /source/pdf/page.title.pdf %&#125;</code></pre>
 ]]></content>
       <categories>
         <category>主题</category>
@@ -39,49 +34,49 @@
 <a id="more"></a>
 
 <hr>
-<h4 id="一、DataWorks-V2-前生后世"><a href="#一、DataWorks-V2-前生后世" class="headerlink" title="一、DataWorks V2 前生后世"></a>一、DataWorks V2 前生后世</h4><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/214241735204.mp4">DataWorks V2 前生后世</video></p>
+<h4 id="一、DataWorks-V2-前生后世"><a href="#一、DataWorks-V2-前生后世" class="headerlink" title="一、DataWorks V2 前生后世"></a>一、DataWorks V2 前生后世</h4><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/214241735204.mp4">DataWorks V2 前生后世</video></p>
 <hr>
-<h4 id="二、DataWorks功能介绍"><a href="#二、DataWorks功能介绍" class="headerlink" title="二、DataWorks功能介绍"></a>二、DataWorks功能介绍</h4><h5 id="1、MaxCompute管家详解"><a href="#1、MaxCompute管家详解" class="headerlink" title="1、MaxCompute管家详解"></a>1、MaxCompute管家详解</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/258126684330.mp4">MaxCompute管家详解</video></p>
+<h4 id="二、DataWorks功能介绍"><a href="#二、DataWorks功能介绍" class="headerlink" title="二、DataWorks功能介绍"></a>二、DataWorks功能介绍</h4><h5 id="1、MaxCompute管家详解"><a href="#1、MaxCompute管家详解" class="headerlink" title="1、MaxCompute管家详解"></a>1、MaxCompute管家详解</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/258126684330.mp4">MaxCompute管家详解</video></p>
 <hr>
-<h5 id="2、DataWorks数据集成介绍及实践"><a href="#2、DataWorks数据集成介绍及实践" class="headerlink" title="2、DataWorks数据集成介绍及实践"></a>2、DataWorks数据集成介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/286389460364.mp4">DataWorks数据集成介绍及实践</video></p>
+<h5 id="2、DataWorks数据集成介绍及实践"><a href="#2、DataWorks数据集成介绍及实践" class="headerlink" title="2、DataWorks数据集成介绍及实践"></a>2、DataWorks数据集成介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/286389460364.mp4">DataWorks数据集成介绍及实践</video></p>
 <hr>
-<h5 id="3、DataWorks数据开发介绍及实践"><a href="#3、DataWorks数据开发介绍及实践" class="headerlink" title="3、DataWorks数据开发介绍及实践"></a>3、DataWorks数据开发介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/286386220538.mp4">DataWorks数据开发介绍及实践</video></p>
+<h5 id="3、DataWorks数据开发介绍及实践"><a href="#3、DataWorks数据开发介绍及实践" class="headerlink" title="3、DataWorks数据开发介绍及实践"></a>3、DataWorks数据开发介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/286386220538.mp4">DataWorks数据开发介绍及实践</video></p>
 <hr>
-<h5 id="4、DataWorks数据分析介绍及实践"><a href="#4、DataWorks数据分析介绍及实践" class="headerlink" title="4、DataWorks数据分析介绍及实践"></a>4、DataWorks数据分析介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285673078050.mp4">DataWorks数据分析介绍及实践</video></p>
+<h5 id="4、DataWorks数据分析介绍及实践"><a href="#4、DataWorks数据分析介绍及实践" class="headerlink" title="4、DataWorks数据分析介绍及实践"></a>4、DataWorks数据分析介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285673078050.mp4">DataWorks数据分析介绍及实践</video></p>
 <hr>
-<h5 id="5、DataWorks数据服务介绍及实践"><a href="#5、DataWorks数据服务介绍及实践" class="headerlink" title="5、DataWorks数据服务介绍及实践"></a>5、DataWorks数据服务介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285124872561.mp4">DataWorks数据服务介绍及实践</video></p>
+<h5 id="5、DataWorks数据服务介绍及实践"><a href="#5、DataWorks数据服务介绍及实践" class="headerlink" title="5、DataWorks数据服务介绍及实践"></a>5、DataWorks数据服务介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285124872561.mp4">DataWorks数据服务介绍及实践</video></p>
 <hr>
-<h5 id="6、-DataWorks数据安全介绍及实践"><a href="#6、-DataWorks数据安全介绍及实践" class="headerlink" title="6、 DataWorks数据安全介绍及实践"></a>6、 DataWorks数据安全介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285675758510.mp4"> DataWorks数据安全介绍及实践</video></p>
+<h5 id="6、-DataWorks数据安全介绍及实践"><a href="#6、-DataWorks数据安全介绍及实践" class="headerlink" title="6、 DataWorks数据安全介绍及实践"></a>6、 DataWorks数据安全介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285675758510.mp4"> DataWorks数据安全介绍及实践</video></p>
 <hr>
-<h5 id="7、-DataWorks迁移助手介绍及实践"><a href="#7、-DataWorks迁移助手介绍及实践" class="headerlink" title="7、 DataWorks迁移助手介绍及实践"></a>7、 DataWorks迁移助手介绍及实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285125960087.mp4"> DataWorks迁移助手介绍及实践</video></p>
+<h5 id="7、-DataWorks迁移助手介绍及实践"><a href="#7、-DataWorks迁移助手介绍及实践" class="headerlink" title="7、 DataWorks迁移助手介绍及实践"></a>7、 DataWorks迁移助手介绍及实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/285125960087.mp4"> DataWorks迁移助手介绍及实践</video></p>
 <hr>
-<h4 id="三、DataWorks操作指导"><a href="#三、DataWorks操作指导" class="headerlink" title="三、DataWorks操作指导"></a>三、DataWorks操作指导</h4><h5 id="1、DataWorks增值版本详解"><a href="#1、DataWorks增值版本详解" class="headerlink" title="1、DataWorks增值版本详解"></a>1、DataWorks增值版本详解</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/234005420131.mp4">DataWorks增值版本详解</video></p>
+<h4 id="三、DataWorks操作指导"><a href="#三、DataWorks操作指导" class="headerlink" title="三、DataWorks操作指导"></a>三、DataWorks操作指导</h4><h5 id="1、DataWorks增值版本详解"><a href="#1、DataWorks增值版本详解" class="headerlink" title="1、DataWorks增值版本详解"></a>1、DataWorks增值版本详解</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/234005420131.mp4">DataWorks增值版本详解</video></p>
 <hr>
-<h5 id="2、DataWorks商业化资源组"><a href="#2、DataWorks商业化资源组" class="headerlink" title="2、DataWorks商业化资源组"></a>2、DataWorks商业化资源组</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256651914269.mp4">DataWorks商业化资源组</video></p>
+<h5 id="2、DataWorks商业化资源组"><a href="#2、DataWorks商业化资源组" class="headerlink" title="2、DataWorks商业化资源组"></a>2、DataWorks商业化资源组</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256651914269.mp4">DataWorks商业化资源组</video></p>
 <hr>
-<h5 id="3、DataWorks智能监控简介与最佳实践"><a href="#3、DataWorks智能监控简介与最佳实践" class="headerlink" title="3、DataWorks智能监控简介与最佳实践"></a>3、DataWorks智能监控简介与最佳实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215917529599.mp4">DataWorks智能监控简介与最佳实践</video></p>
+<h5 id="3、DataWorks智能监控简介与最佳实践"><a href="#3、DataWorks智能监控简介与最佳实践" class="headerlink" title="3、DataWorks智能监控简介与最佳实践"></a>3、DataWorks智能监控简介与最佳实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215917529599.mp4">DataWorks智能监控简介与最佳实践</video></p>
 <hr>
-<h5 id="4、DataWorks数据质量简介及最佳实践"><a href="#4、DataWorks数据质量简介及最佳实践" class="headerlink" title="4、DataWorks数据质量简介及最佳实践"></a>4、DataWorks数据质量简介及最佳实践</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215866716859.mp4">DataWorks数据质量简介及最佳实践</video></p>
+<h5 id="4、DataWorks数据质量简介及最佳实践"><a href="#4、DataWorks数据质量简介及最佳实践" class="headerlink" title="4、DataWorks数据质量简介及最佳实践"></a>4、DataWorks数据质量简介及最佳实践</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215866716859.mp4">DataWorks数据质量简介及最佳实践</video></p>
 <hr>
-<h5 id="5、DataWorks数据安全简介与最佳实践"><a href="#5、DataWorks数据安全简介与最佳实践" class="headerlink" title="5、DataWorks数据安全简介与最佳实践"></a>5、DataWorks数据安全简介与最佳实践</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215963182038.mp4">DataWorks数据安全简介与最佳实践</video></p>
+<h5 id="5、DataWorks数据安全简介与最佳实践"><a href="#5、DataWorks数据安全简介与最佳实践" class="headerlink" title="5、DataWorks数据安全简介与最佳实践"></a>5、DataWorks数据安全简介与最佳实践</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215963182038.mp4">DataWorks数据安全简介与最佳实践</video></p>
 <hr>
-<h5 id="6、Function-Studio简介与使用指导"><a href="#6、Function-Studio简介与使用指导" class="headerlink" title="6、Function Studio简介与使用指导"></a>6、Function Studio简介与使用指导</h5><p><video width="720" height="450"  preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215957166944.mp4">Function Studio简介与使用指导</video></p>
+<h5 id="6、Function-Studio简介与使用指导"><a href="#6、Function-Studio简介与使用指导" class="headerlink" title="6、Function Studio简介与使用指导"></a>6、Function Studio简介与使用指导</h5><p><video width="720" height="450" preload="none" controls src="http://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/215957166944.mp4">Function Studio简介与使用指导</video></p>
 <hr>
-<h5 id="7、DataWorks-on-EMR操作演示"><a href="#7、DataWorks-on-EMR操作演示" class="headerlink" title="7、DataWorks on EMR操作演示"></a>7、DataWorks on EMR操作演示</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/249572978192.mp4">DataWorks on EMR操作演示</video></p>
+<h5 id="7、DataWorks-on-EMR操作演示"><a href="#7、DataWorks-on-EMR操作演示" class="headerlink" title="7、DataWorks on EMR操作演示"></a>7、DataWorks on EMR操作演示</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/249572978192.mp4">DataWorks on EMR操作演示</video></p>
 <hr>
-<h5 id="8、DataWorks-WorkShop操作"><a href="#8、DataWorks-WorkShop操作" class="headerlink" title="8、DataWorks WorkShop操作"></a>8、DataWorks WorkShop操作</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256682094521.mp4">DataWorks WorkShop操作</video></p>
+<h5 id="8、DataWorks-WorkShop操作"><a href="#8、DataWorks-WorkShop操作" class="headerlink" title="8、DataWorks WorkShop操作"></a>8、DataWorks WorkShop操作</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256682094521.mp4">DataWorks WorkShop操作</video></p>
 <hr>
-<h5 id="9、DataWorks调度任务迁移"><a href="#9、DataWorks调度任务迁移" class="headerlink" title="9、DataWorks调度任务迁移"></a>9、DataWorks调度任务迁移</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256486417823.mp4">DataWorks调度任务迁移</video></p>
+<h5 id="9、DataWorks调度任务迁移"><a href="#9、DataWorks调度任务迁移" class="headerlink" title="9、DataWorks调度任务迁移"></a>9、DataWorks调度任务迁移</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256486417823.mp4">DataWorks调度任务迁移</video></p>
 <hr>
-<h4 id="四、DataWorks问题排查"><a href="#四、DataWorks问题排查" class="headerlink" title="四、DataWorks问题排查"></a>四、DataWorks问题排查</h4><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/214136120302.mp4">DataWorks问题排查</video></p>
+<h4 id="四、DataWorks问题排查"><a href="#四、DataWorks问题排查" class="headerlink" title="四、DataWorks问题排查"></a>四、DataWorks问题排查</h4><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/214136120302.mp4">DataWorks问题排查</video></p>
 <hr>
-<h4 id="五、DataWorks最佳实践"><a href="#五、DataWorks最佳实践" class="headerlink" title="五、DataWorks最佳实践"></a>五、DataWorks最佳实践</h4><h5 id="1、DataWorks版本概述与最佳实践"><a href="#1、DataWorks版本概述与最佳实践" class="headerlink" title="1、DataWorks版本概述与最佳实践"></a>1、DataWorks版本概述与最佳实践</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/50237302884.mp4">DataWorks版本概述与最佳实践</video></p>
+<h4 id="五、DataWorks最佳实践"><a href="#五、DataWorks最佳实践" class="headerlink" title="五、DataWorks最佳实践"></a>五、DataWorks最佳实践</h4><h5 id="1、DataWorks版本概述与最佳实践"><a href="#1、DataWorks版本概述与最佳实践" class="headerlink" title="1、DataWorks版本概述与最佳实践"></a>1、DataWorks版本概述与最佳实践</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/3926817755/p/1/e/6/t/1/50237302884.mp4">DataWorks版本概述与最佳实践</video></p>
 <hr>
-<h5 id="2、DataWorks数据质量介绍及最佳实践"><a href="#2、DataWorks数据质量介绍及最佳实践" class="headerlink" title="2、DataWorks数据质量介绍及最佳实践"></a>2、DataWorks数据质量介绍及最佳实践</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256676806735.mp4">DataWorks数据质量介绍及最佳实践</video></p>
+<h5 id="2、DataWorks数据质量介绍及最佳实践"><a href="#2、DataWorks数据质量介绍及最佳实践" class="headerlink" title="2、DataWorks数据质量介绍及最佳实践"></a>2、DataWorks数据质量介绍及最佳实践</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256676806735.mp4">DataWorks数据质量介绍及最佳实践</video></p>
 <hr>
-<h5 id="3、基于DataWorks数据服务快速搭建疫情大屏"><a href="#3、基于DataWorks数据服务快速搭建疫情大屏" class="headerlink" title="3、基于DataWorks数据服务快速搭建疫情大屏"></a>3、基于DataWorks数据服务快速搭建疫情大屏</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256470993051.mp4">基于DataWorks数据服务快速搭建疫情大屏</video></p>
+<h5 id="3、基于DataWorks数据服务快速搭建疫情大屏"><a href="#3、基于DataWorks数据服务快速搭建疫情大屏" class="headerlink" title="3、基于DataWorks数据服务快速搭建疫情大屏"></a>3、基于DataWorks数据服务快速搭建疫情大屏</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256470993051.mp4">基于DataWorks数据服务快速搭建疫情大屏</video></p>
 <hr>
-<h5 id="4、DataWorks数据集成与开源Sqoop的对比"><a href="#4、DataWorks数据集成与开源Sqoop的对比" class="headerlink" title="4、DataWorks数据集成与开源Sqoop的对比"></a>4、DataWorks数据集成与开源Sqoop的对比</h5><p><video width="720" height="450"  preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256671598152.mp4">DataWorks数据集成与开源Sqoop的对比</video></p>
+<h5 id="4、DataWorks数据集成与开源Sqoop的对比"><a href="#4、DataWorks数据集成与开源Sqoop的对比" class="headerlink" title="4、DataWorks数据集成与开源Sqoop的对比"></a>4、DataWorks数据集成与开源Sqoop的对比</h5><p><video width="720" height="450" preload="none" controls src="https://cloud.video.taobao.com/play/u/870834/p/1/e/6/t/1/256671598152.mp4">DataWorks数据集成与开源Sqoop的对比</video></p>
 <hr>
 <blockquote>
 <p>整  理  人：山外Sundal</p>
@@ -264,8 +259,20 @@
 </ul>
 <p>当其他账号通过HDR访问主账号资源时，阿里云HDR首先向RAM发起权限检查，以确保资源拥有者已经将相关权限授予调用者。您可以阅读<a href="https://help.aliyun.com/document_detail/28627.html#concept-oyr-zzv-tdb">访问控制产品文档</a>更多详情，实现精细化授权策略和权限控制。</p>
 <h5 id="自定义策略"><a href="#自定义策略" class="headerlink" title="自定义策略"></a>自定义策略</h5><p>您可以通过RAM控制台或者调用RAM <a href="https://help.aliyun.com/document_detail/28716.html#doc-api-Ram-CreatePolicy">CreatePolicy</a> API创建一个自定义策略，在<strong>脚本配置</strong>方式的自定义策略中，您需要根据JSON模板文件填写<strong>策略内容</strong>。更多详情请参见<a href="https://help.aliyun.com/document_detail/93738.html#concept-xg5-51g-xdb">权限策略基本元素</a>。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#123;</span><br><span class="line">    &quot;Version&quot;: &quot;1&quot;,</span><br><span class="line">    &quot;Statement&quot;: [</span><br><span class="line">        &#123;</span><br><span class="line">            &quot;Action&quot;: [</span><br><span class="line">                &quot;hdr:*&quot;</span><br><span class="line">            ],</span><br><span class="line">            &quot;Resource&quot;: [</span><br><span class="line">                &quot;acs:hdr:*:15619224785*****:*&quot;</span><br><span class="line">            ],</span><br><span class="line">            &quot;Effect&quot;: &quot;Allow&quot;</span><br><span class="line">        &#125;</span><br><span class="line">    ]</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-
+<pre><code>&#123;
+    &quot;Version&quot;: &quot;1&quot;,
+    &quot;Statement&quot;: [
+        &#123;
+            &quot;Action&quot;: [
+                &quot;hdr:*&quot;
+            ],
+            &quot;Resource&quot;: [
+                &quot;acs:hdr:*:15619224785*****:*&quot;
+            ],
+            &quot;Effect&quot;: &quot;Allow&quot;
+        &#125;
+    ]
+&#125;</code></pre>
 <h5 id="鉴权列表"><a href="#鉴权列表" class="headerlink" title="鉴权列表"></a>鉴权列表</h5><p><strong>Action</strong>及<strong>Resource</strong>说明请参见<a href="https://help.aliyun.com/document_detail/93738.html#concept-xg5-51g-xdb">权限策略基本元素</a>。</p>
 <table>
 <thead>
@@ -276,7 +283,7 @@
 </thead>
 <tbody><tr>
 <td align="left">hdr:*</td>
-<td align="left">acs:hdr:<em>:<uid>:</em></td>
+<td align="left">acs:hdr:<em>:<uid>:</uid></em></td>
 </tr>
 </tbody></table>
 <h4 id="1-7-控制台概览"><a href="#1-7-控制台概览" class="headerlink" title="1.7 控制台概览"></a>1.7 控制台概览</h4><p>混合云容灾控制台是容灾服务的云上管理入口。</p>
@@ -429,7 +436,7 @@
 </tbody></table>
 <h4 id="2-4-IDC容灾到云"><a href="#2-4-IDC容灾到云" class="headerlink" title="2.4 IDC容灾到云"></a>2.4 IDC容灾到云</h4><h5 id="流程概览"><a href="#流程概览" class="headerlink" title="流程概览"></a>流程概览</h5><p>混合云容灾服务充分利用了公共云资源，极大简化了灾备中心的软硬件准备与运维工作，让您可以只专注于搭建容灾系统。</p>
 <p>您只需要依次执行以下六个步骤即可实现对关键应用的容灾保护，操作流程如下图所示：</p>
-<img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/3690579651/p59365.jpg" alt="img" style="zoom:50%;" />
+<img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/3690579651/p59365.jpg" alt="img" style="zoom:50%;">
 
 <ol>
 <li><p>步骤一：搭建云上专有网络</p>
@@ -509,7 +516,7 @@
 </li>
 <li><p>在<strong>创建专有网络</strong>页面，您可以创建专有网络和交换机。</p>
 </li>
-<li><img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/6645052751/p33473.png" alt="img" style="zoom:80%;" />
+<li><img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/6645052751/p33473.png" alt="img" style="zoom:80%;">
 
 <ul>
 <li><p>在<strong>专有网络</strong>区域中，输入专有网络<strong>名称</strong>，<strong>IPv4网段</strong>选择<strong>10.0.0.0/8</strong>。</p>
@@ -537,7 +544,7 @@
 <li><p>在<strong>概览</strong>页，单击<strong>创建容灾站点对</strong>，选择<strong>连续复制型容灾</strong>。</p>
 </li>
 <li><p>在<strong>创建连续复制型容灾站点对</strong>页面，填写以下各项参数。</p>
-<img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/4690579651/p54422.jpg" alt="site pair" style="zoom:80%;" />
+<img src="http://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/4690579651/p54422.jpg" alt="site pair" style="zoom:80%;">
 
 <ul>
 <li><strong>类型</strong>：您可以选择<strong>IDC容灾到云</strong>、<strong>区域容灾到区域</strong>及<strong>可用区容灾到可用区</strong>。</li>
@@ -570,12 +577,12 @@
 </li>
 <li><p>单击容灾网关下的<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54432.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54432.jpg" alt="img"></a>创建网关。</p>
 </li>
-<li><p>在<strong>创建主站容灾网关</strong>页面，填写<strong>名称</strong>，部署环境选择<strong>Apsara DR100</strong>、<strong>Apsara DR200</strong>、<strong>VMware</strong>或<strong>Hyper-V</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54433.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54433.jpg" alt="img" style="zoom: 67%;" /></a></p>
+<li><p>在<strong>创建主站容灾网关</strong>页面，填写<strong>名称</strong>，部署环境选择<strong>Apsara DR100</strong>、<strong>Apsara DR200</strong>、<strong>VMware</strong>或<strong>Hyper-V</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54433.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54433.jpg" alt="img" style="zoom: 67%;"></a></p>
 </li>
 <li><p>单击<strong>创建</strong>。</p>
 </li>
-<li><p>在<strong>创建主站容灾网关</strong>页面，单击<strong>下载容灾网关镜像</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54435.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54435.jpg" alt="img" style="zoom:67%;" /></a></p>
-<p>您也可以单击已创建容灾网关右侧对应的*<strong>*<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54437.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54437.jpg" alt="img"></a>\</strong> &gt; *<em>下载容灾网关镜像***</em>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54438.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54438.jpg" alt="img" style="zoom:67%;" /></a>。</p>
+<li><p>在<strong>创建主站容灾网关</strong>页面，单击<strong>下载容灾网关镜像</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54435.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54435.jpg" alt="img" style="zoom:67%;"></a></p>
+<p>您也可以单击已创建容灾网关右侧对应的*<strong>*<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54437.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54437.jpg" alt="img"></a>\</strong> &gt; *<em>下载容灾网关镜像***</em>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54438.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/1289702851/p54438.jpg" alt="img" style="zoom:67%;"></a>。</p>
 </li>
 </ol>
 <p><strong>步骤2：部署网关镜像</strong></p>
@@ -588,12 +595,12 @@
 <li>强烈建议将 CDR 网关部署在已配置了高可用（HA）的 vSphere 集群上，确保 CDR 网关的高可用性。</li>
 <li>OVA 仅支持通过 vCenter 的网页客户端（Web Client）来部署，通过 vCenter 的 C# 客户端或者 Esxi UI 部署都会使网关无法工作。</li>
 </ul>
-<p><a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33720.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33720.jpg" alt="img" style="zoom: 33%;" /></a></p>
+<p><a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33720.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33720.jpg" alt="img" style="zoom: 33%;"></a></p>
 <p>在 VMware vSphere 平台上部署 CDR 网关操作步骤如下：</p>
 <ol>
-<li><p>用管理员身份登录 vSphere 网页客户端后，vSphere 集群上单击右键选择<strong>部署OVF模板…</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33721.png"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33721.png" alt="img" style="zoom: 67%;" /></a></p>
+<li><p>用管理员身份登录 vSphere 网页客户端后，vSphere 集群上单击右键选择<strong>部署OVF模板…</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33721.png"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33721.png" alt="img" style="zoom: 67%;"></a></p>
 </li>
-<li><p>按照 OVF 部署向导，在<strong>选择模板</strong>页面，单击<strong>浏览</strong>选择下载好的网关镜像 OVA 文件。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33722.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33722.jpg" alt="img" style="zoom:50%;" /></a></p>
+<li><p>按照 OVF 部署向导，在<strong>选择模板</strong>页面，单击<strong>浏览</strong>选择下载好的网关镜像 OVA 文件。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33722.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33722.jpg" alt="img" style="zoom:50%;"></a></p>
 </li>
 <li><p>在<strong>选择名称和位置</strong>页面，输入<strong>名称</strong>，并选择镜像部署位置，通常只需要选择到集群级别，或者选择文件夹。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33723.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/2289702851/p33723.jpg" alt="img"></a></p>
 </li>
@@ -612,7 +619,7 @@
 </li>
 <li><p>确认网关部署信息，单击<strong>完成</strong>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33734.png"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33734.png" alt="img"></a></p>
 </li>
-<li><p>待部署完成后，您可以在 vSphere 的虚机列表中看到已部署完成的虚拟机。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33737.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33737.jpg" alt="img" style="zoom:50%;" /></a></p>
+<li><p>待部署完成后，您可以在 vSphere 的虚机列表中看到已部署完成的虚拟机。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33737.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/4289702851/p33737.jpg" alt="img" style="zoom:50%;"></a></p>
 </li>
 <li><p>（可选，建议配置）增强虚机高可用性</p>
 <p>在配置了高可用（HA) vSphere 集群上，如果 CDR 网关所在的 Esxi 宕机，网关会在同集群其他 Esxi 服务器上运行起来，宕机时间取决于 vSphere 集群的 HA 配置。建议您提高网关虚机重启优先级，以尽量缩短虚机启动时间。</p>
@@ -682,7 +689,7 @@
 <p>激活网关是为了让网关与阿里云正式建立连接，并且准备好接收容灾复制数据流。</p>
 <p>网关网络与时间配置完成后，您可以按照如下步骤激活网关：</p>
 <ol>
-<li><p>在<strong>容灾中心</strong>的<strong>站点对信息</strong>页签下，单击激活图标<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/7289702851/p54514.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/7289702851/p54514.jpg" alt="img"></a>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54513.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54513.jpg" alt="img" style="zoom: 50%;" /></a></p>
+<li><p>在<strong>容灾中心</strong>的<strong>站点对信息</strong>页签下，单击激活图标<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/7289702851/p54514.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/7289702851/p54514.jpg" alt="img"></a>。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54513.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54513.jpg" alt="img" style="zoom: 50%;"></a></p>
 <p><strong>说明</strong> 激活码的有效时间为 15 分钟。</p>
 </li>
 <li><p>登录连续复制型容灾网关注册页面，地址格式为：http://网关IP:8080。</p>
@@ -698,10 +705,10 @@
 </ol>
 <p>CDR 网关激活完成后，您需要在关键业务服务器上安装阿里云复制服务（Aliyun Replication Service, AReS），将服务器复制到阿里云。</p>
 <p><strong>相关操作</strong></p>
-<p>除下载容灾网关镜像外，您还可以对容灾网关设置限速、重置密码、删除网关及收集支持信息。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54519.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54519.jpg" alt="img" style="zoom:50%;" /></a></p>
+<p>除下载容灾网关镜像外，您还可以对容灾网关设置限速、重置密码、删除网关及收集支持信息。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54519.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54519.jpg" alt="img" style="zoom:50%;"></a></p>
 <ul>
 <li><p>设置限速：如果您想要设置网关限速，请勾选启用限速，单击添加，并设置启用限速的起始时间、结束时间及网络速度</p>
-<p>，然后单击确认。如果想要取消网关限速，请单击操作栏下的删除图标。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54526.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54526.jpg" alt="img" style="zoom: 67%;" /></a></p>
+<p>，然后单击确认。如果想要取消网关限速，请单击操作栏下的删除图标。<a href="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54526.jpg"><img src="https://static-aliyun-doc.oss-cn-hangzhou.aliyuncs.com/assets/img/zh-CN/8289702851/p54526.jpg" alt="img" style="zoom: 67%;"></a></p>
 </li>
 <li><p><strong>重置密码</strong>：您可以为容灾网关重置密码。</p>
 </li>
